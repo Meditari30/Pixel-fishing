@@ -67,3 +67,5 @@ http://localhost:8000
 - 增加更多鱼类、地图和特殊事件
 - 支持键盘或手柄操作
 - 发布到 GitHub Pages 方便在线游玩
+
+- https://github.com/Meditari30/Pixel-fishing
